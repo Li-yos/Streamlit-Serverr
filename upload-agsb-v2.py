@@ -31,7 +31,7 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "kkddytd"         # 用户名
+USER_NAME = "zt123"         # 用户名
 UUID = "cd890486-3efb-42b9-aaf1-dd8246daeb6f"                     # UUID，留空则自动生成
 PORT = 33333                  # Vmess端口，留空或0则自动生成
 DOMAIN = "streamlit.free6666.dpdns.org"                   # 域名，留空则自动获取
